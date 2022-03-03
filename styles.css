@@ -24,3 +24,7 @@
   font-size: 25px;
   cursor: pointer;
 }
+#equal {
+  background-color: greenyellow;
+  color: brown;
+}
