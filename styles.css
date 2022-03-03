@@ -28,3 +28,8 @@
   background-color: greenyellow;
   color: brown;
 }
+.button:hover {
+  background-color: darkseagreen;
+  color: brown;
+  transition: 0.5s ease-out;
+}
