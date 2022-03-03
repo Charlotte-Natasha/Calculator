@@ -17,3 +17,9 @@
   border-left: 1px solid green;
   grid-template-columns: 1fr 1fr 1fr 1fr;
 }
+.button {
+  border: 0.5px solid green;
+  line-height: 100px;
+  text-align: center;
+  font-size: 25px;
+}
